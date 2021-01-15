@@ -4,7 +4,7 @@ import "./styles.css";
 
 function App() {
   async function handleAddRepository() {
-    // TODO
+    // TOD O
   }
 
   async function handleRemoveRepository(id) {
